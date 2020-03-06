@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart-InMemoryCode\\Emart-InMemoryCode.csproj": {}
+  },
+  "projects": {
+    "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart-InMemoryCode\\Emart-InMemoryCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart-InMemoryCode\\Emart-InMemoryCode.csproj",
+        "projectName": "Emart-InMemoryCode",
+        "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart-InMemoryCode\\Emart-InMemoryCode.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart-InMemoryCode\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.BusinessLayer\\Emart.BusinessLayer.csproj": {
+                "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.BusinessLayer\\Emart.BusinessLayer.csproj"
+              },
+              "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\Emart.DataLayer.csproj": {
+                "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\Emart.DataLayer.csproj"
+              },
+              "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj": {
+                "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.BusinessLayer\\Emart.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.BusinessLayer\\Emart.BusinessLayer.csproj",
+        "projectName": "Emart.BusinessLayer",
+        "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.BusinessLayer\\Emart.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\Emart.DataLayer.csproj": {
+                "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\Emart.DataLayer.csproj"
+              },
+              "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj": {
+                "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\Emart.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\Emart.DataLayer.csproj",
+        "projectName": "Emart.DataLayer",
+        "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\Emart.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj": {
+                "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj",
+        "projectName": "Emart.Models",
+        "projectPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\Emart.Models.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "\\\\CR302\\Shared Folder\\kavya\\IN-Memory-3.1\\Emart\\Emart.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

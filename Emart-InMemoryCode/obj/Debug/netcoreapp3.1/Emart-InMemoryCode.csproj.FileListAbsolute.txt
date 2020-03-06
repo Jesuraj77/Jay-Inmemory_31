@@ -1,0 +1,270 @@
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.exe
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.deps.json
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.runtimeconfig.json
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.pdb
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.Views.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.Views.pdb
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.BusinessLayer.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.DataLayer.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.Models.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.BusinessLayer.pdb
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.DataLayer.pdb
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.Models.pdb
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\staticwebassets\Emart-InMemoryCode.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\staticwebassets\Emart-InMemoryCode.StaticWebAssets.xml
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.TagHelpers.input.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.TagHelpers.output.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.Views.pdb
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.csproj.CopyComplete
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.pdb
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Admin\source\repos\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\appsettings.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.exe
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.deps.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.runtimeconfig.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.runtimeconfig.dev.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.Views.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart-InMemoryCode.Views.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Dapper.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.BusinessLayer.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.DataLayer.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.Models.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.BusinessLayer.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.DataLayer.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\bin\Debug\netcoreapp3.1\Emart.Models.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.csprojAssemblyReference.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\staticwebassets\Emart-InMemoryCode.StaticWebAssets.Manifest.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\staticwebassets\Emart-InMemoryCode.StaticWebAssets.xml
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.MvcApplicationPartsAssemblyInfo.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorAssemblyInfo.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorAssemblyInfo.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.AssemblyInfoInputs.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.AssemblyInfo.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.TagHelpers.input.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.TagHelpers.output.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorCoreGenerate.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorTargetAssemblyInfo.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.RazorTargetAssemblyInfo.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.Views.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.csproj.CopyComplete
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart-InMemoryCode\obj\Debug\netcoreapp3.1\Emart-InMemoryCode.pdb

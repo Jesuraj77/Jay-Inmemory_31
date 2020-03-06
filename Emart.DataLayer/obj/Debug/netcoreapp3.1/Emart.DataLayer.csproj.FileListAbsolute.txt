@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.DataLayer.deps.json
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.DataLayer.dll
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.DataLayer.pdb
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.Models.dll
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.Models.pdb
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.dll
+C:\Users\Admin\source\repos\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.DataLayer.deps.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.DataLayer.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.DataLayer.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.Models.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\bin\Debug\netcoreapp3.1\Emart.Models.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.csprojAssemblyReference.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.AssemblyInfoInputs.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.AssemblyInfo.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.csproj.CopyComplete
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.DataLayer\obj\Debug\netcoreapp3.1\Emart.DataLayer.pdb

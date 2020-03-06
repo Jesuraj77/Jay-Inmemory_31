@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Emart\Emart.Models\bin\Debug\netcoreapp3.1\Emart.Models.deps.json
+C:\Users\Admin\source\repos\Emart\Emart.Models\bin\Debug\netcoreapp3.1\Emart.Models.dll
+C:\Users\Admin\source\repos\Emart\Emart.Models\bin\Debug\netcoreapp3.1\Emart.Models.pdb
+C:\Users\Admin\source\repos\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.dll
+C:\Users\Admin\source\repos\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\bin\Debug\netcoreapp3.1\Emart.Models.deps.json
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\bin\Debug\netcoreapp3.1\Emart.Models.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\bin\Debug\netcoreapp3.1\Emart.Models.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.AssemblyInfoInputs.cache
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.AssemblyInfo.cs
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.dll
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.pdb
+\\CR302\Shared Folder\kavya\IN-Memory-3.1\Emart\Emart.Models\obj\Debug\netcoreapp3.1\Emart.Models.csprojAssemblyReference.cache

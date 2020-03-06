@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Emart_InMemoryCode</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Emart.BusinessLayer\Emart.BusinessLayer.csproj" />
+    <ProjectReference Include="..\Emart.DataLayer\Emart.DataLayer.csproj" />
+    <ProjectReference Include="..\Emart.Models\Emart.Models.csproj" />
+  </ItemGroup>
+
+
+
+</Project>
